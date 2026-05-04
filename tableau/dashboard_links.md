@@ -6,9 +6,10 @@ Use this file to store the final public links for your Tableau deliverables.
 
 | Item | Link | Notes |
 |---|---|---|
-| Tableau Public Dashboard | https://public.tableau.com/shared/4SBGTH5PQ?:display_count=n&:origin=viz_share_link | _Main submission link_ |
+| Tableau Public Dashboard | https://public.tableau.com/shared/4SBGTH5PQ?:display_count=n&:origin=viz_share_link | _Public dashboard link_ |
 
-Workbook/Story link and demo recording are not required for this submission.
+---
+
 
 ## Screenshot Checklist
 

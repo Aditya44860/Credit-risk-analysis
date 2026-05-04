@@ -1,34 +1,19 @@
-# FinShield
+## Loan Default Risk Analysis
 
-## NST DVA Capstone 2 - Project Repository
-
-> **Newton School of Technology | Data Visualization & Analytics**
-> A 2-week industry simulation capstone using Python, GitHub, and Tableau to convert raw data into actionable business intelligence.
+> **Data Visualization & Analytics Portfolio Project**
+> A 2-week industry simulation project using Python, GitHub, and Tableau to convert raw data into actionable business intelligence.
 
 
 ## Project Overview
 
 | Field | Details |
 |---|---|
-| **Project Title** | _FinShield_ |
+| **Project Title** | _Loan Default Risk Analysis_ |
 | **Sector** | _Finance_ |
-| **Team ID** | _DVA-G1_ |
-| **Section** | _D_ |
-| **Faculty Mentor** | _Archit Raj Sir_ |
-| **Institute** | Newton School of Technology |
-| **Submission Date** | _29 April 2026_ |
+| **Author** | _Aditya Bhardwaj_ |
 
-### Team Members
 
-| Role | Name | GitHub Username |
-|---|---|---|
-| Project Lead | _Daksh Batra_ | `dakshbatra01` |
-| Data Lead | _Prakhar Rawat_ | `Prakhar13o3` |
-| ETL Lead | _Nitin Kumar_ | `Nitin-0017` |
-| Analysis Lead | _Isha Tomar_ | `Bytebard089` |
-| Visualization Lead | _Kapish Rohilla_ | `kapish9741` |
-| Strategy Lead | _Rishi Raj_ | `rishiraj38` |
-| PPT and Quality Lead | _Nishant Ranjan Singh_ | `IAmNishantSingh` |
+---
 
 ---
 
@@ -179,7 +164,7 @@ Dashboard screenshots are in [`tableau/screenshots/`](tableau/screenshots/) and 
 ## Repository Structure
 
 ```text
-SectionD_G1_FinShield/
+Loan-Risk-Analysis/
 |
 |-- README.md
 |
@@ -222,7 +207,7 @@ SectionD_G1_FinShield/
 
 The project follows a structured 7-step workflow:
 
-1. **Define** - Sector selected, problem statement scoped, mentor approval obtained.
+1. **Define** - Sector selected, problem statement scoped, business objectives defined.
 2. **Extract** - Raw dataset sourced and committed to `data/raw/`; data dictionary drafted.
 3. **Clean and Transform** - Cleaning pipeline built in `notebooks/02_cleaning.ipynb` and optionally `scripts/etl_pipeline.py`.
 4. **Analyze** - EDA and statistical analysis performed in notebooks `03` and `04`.
@@ -247,25 +232,8 @@ The project follows a structured 7-step workflow:
 ---
 
 
-## Contribution Matrix
+## Author
 
-This table must match evidence in GitHub Insights, PR history, and committed files.
+**Aditya Bhardwaj**
 
-| Team Member | Dataset and Sourcing | ETL and Cleaning | EDA and Analysis | Statistical Analysis | Tableau Dashboard | Report Writing | PPT and Viva |
-|---|---|---|---|---|---|---|---|
-| _Daksh Batra_ (Project Lead) | Support | Support | Support | Support | Owner | Support | Support |
-| _Prakhar Rawat_ (Data Lead) | Owner | Support | Support | Support | Support | Support | Support |
-| _Nitin Kumar_ (ETL Lead) | Support | Owner | Support | Support | Support | Support | Support |
-| _Isha Tomar_ (Analysis Lead) | Support | Support | Owner | Owner | Support | Support | Support |
-| _Kapish Rohilla_ (Visualization Lead) | Support | Support | Support | Support | Owner | Support | Support |
-| _Rishi Raj_ (Strategy Lead) | Support | Support | Support | Support | Support | Owner | Support |
-| _Nishant Ranjan Singh_ (PPT and Quality Lead) | Support | Support | Support | Support | Support | Support | Owner |
-
-_Declaration: We confirm that the above contribution details are accurate and verifiable through GitHub Insights, PR history, and submitted artifacts._
-
-**Team Lead Name:** Daksh Batra
-
-**Date:** 29 April 2026
-
-
-*Newton School of Technology - Data Visualization & Analytics | Capstone 2*
+*Data Visualization & Analytics Professional Portfolio*

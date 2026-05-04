@@ -1,4 +1,4 @@
-# Data Dictionary — FinShield Loan Default Analysis
+# Data Dictionary — Loan Default Risk Analysis
 
 This document defines every field used in the analysis and Tableau dashboards. It covers the raw dataset, cleaning decisions, derived columns, and known data quality issues.
 
