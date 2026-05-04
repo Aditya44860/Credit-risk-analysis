@@ -91,7 +91,7 @@ Full KPI logic is documented in `notebooks/05_final_load_prep.ipynb`.
 
 | Item | Details |
 |---|---|
-| **Dashboard URL** | [View Tableau Public Dashboard]([https://public.tableau.com/shared/4SBGTH5PQ?:display_count=n&:origin=viz_share_link](https://public.tableau.com/app/profile/addiya.bhardwaj/viz/Risk_Trends_Dashboard_17779121523460/Home?publish=yes)) |
+| **Dashboard URL** | [View Tableau Public Dashboard](https://public.tableau.com/app/profile/addiya.bhardwaj/viz/Risk_Trends_Dashboard_17779121523460/Home?publish=yes) |
 
 ### 1. Portfolio Exposure & Default Risk Overview
 *   **Business Question**: *"How healthy is our current portfolio, and where is our risk concentrated?"*
